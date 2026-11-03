@@ -1,0 +1,5 @@
+# Needed to re-run the full pipeline (cleaning, EDA, training). Includes the app requirements.
+-r requirements.txt
+mlflow==3.17.2
+seaborn==0.13.2
+matplotlib==3.10.8

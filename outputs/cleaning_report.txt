@@ -1,0 +1,13 @@
+Raw rows: 250,000  columns: 23
+
+Duplicates removed: 0
+
+Missing values before:
+Series([], )
+
+Rows dropped for non-positive size/price: 0
+
+IQR outliers flagged - price: 0, size: 0
+
+Clean rows: 250,000
+Good_Investment rate: 39.6%

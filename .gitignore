@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/raw/
+.DS_Store
+mlflow.db
+mlruns/
+models/*_backup.joblib
